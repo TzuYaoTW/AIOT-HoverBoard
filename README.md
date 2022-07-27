@@ -29,6 +29,17 @@ Java Web 接收 Raspberry Pi 人臉辨識答案(可使用Socket或http API)
     RaspberryPi：OpenCV(Python)人臉辨識
     小遊戲：html、JavaScript、jQuery
 
-[https://github.com/TzuYaoTW/AIOT-HoverBoard/tree/main/example-images](https://github.com/TzuYaoTW/AIOT-HoverBoard/tree/main/example-images "介面展示")
+----------
+## 畫面展示
+
+住戶介面
 
 ![](https://github.com/TzuYaoTW/AIOT-HoverBoard/blob/main/example-images/%E4%BD%8F%E6%88%B6%E4%BB%8B%E9%9D%A2.png?raw=true)
+
+社區管理員介面
+
+![](https://github.com/TzuYaoTW/AIOT-HoverBoard/blob/main/example-images/%E7%AE%A1%E7%90%86%E8%80%85%E4%BB%8B%E9%9D%A2.png?raw=true)
+
+英文單字氣球遊戲
+
+![](https://github.com/TzuYaoTW/AIOT-HoverBoard/blob/main/example-images/%E5%B0%8F%E9%81%8A%E6%88%B2.png?raw=true)
