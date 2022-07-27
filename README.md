@@ -28,3 +28,7 @@ Java Web 接收 Raspberry Pi 人臉辨識答案(可使用Socket或http API)
     手勢辨識：Python手掌辨識模組
     RaspberryPi：OpenCV(Python)人臉辨識
     小遊戲：html、JavaScript、jQuery
+
+[https://github.com/TzuYaoTW/AIOT-HoverBoard/tree/main/example-images](https://github.com/TzuYaoTW/AIOT-HoverBoard/tree/main/example-images "介面展示")
+
+![](https://github.com/TzuYaoTW/AIOT-HoverBoard/blob/main/example-images/%E4%BD%8F%E6%88%B6%E4%BB%8B%E9%9D%A2.png?raw=true)
